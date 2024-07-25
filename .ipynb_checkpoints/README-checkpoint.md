@@ -6,6 +6,6 @@ Combining systems and synthetic biology for in vivo enzymology. Castaño-Cerezo 
 
 The model used to run simulations is provided in the folder 'model'. This model is also available from the Biomodels database (with identifier MODEL2407240001).
 
-The code used to quantify *in vivo* enzymatic parameters can be found in the Jupyter notebook 'enzinvivo.ipynb'.
+The code used to quantify in vivo enzymatic parameters can be found in the Jupyter notebook 'enzinvivo.ipynb'.
 
 All the figures can be found in the folder 'figures'.
